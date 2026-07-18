@@ -16,6 +16,7 @@ Robot Keyestudio 4WD Bluetooth V2.0 (KS0559F) usado como segunda plataforma de a
 - **movimiento** → movimiento básico adelante y parar con motores DC
 - **giro** → giro izquierda y derecha combinando dirección y velocidad
 - **ultrasonido** → lectura de distancia con HC-SR04 por Monitor Serie
+- **infrarrojo** → lectura de 3 sensores IR por Monitor Serie
 
 ## Herramientas
 - Arduino IDE
