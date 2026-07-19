@@ -18,6 +18,7 @@ Robot Keyestudio 4WD Bluetooth V2.0 (KS0559F) usado como segunda plataforma de a
 - **ultrasonido** → lectura de distancia con HC-SR04 por Monitor Serie
 - **infrarrojo** → lectura de 3 sensores IR por Monitor Serie
 - **ir_remoto** → lectura de códigos HEX del mando IR por Monitor Serie
+- **control_ir** → control completo del robot con mando IR
 
 ## Herramientas
 - Arduino IDE
