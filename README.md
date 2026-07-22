@@ -21,6 +21,7 @@ Robot Keyestudio 4WD Bluetooth V2.0 (KS0559F) usado como segunda plataforma de a
 - **control_ir** → control completo del robot con mando IR
 - **matriz_led** → mostrar carita feliz centrada en la matriz LED 8x16
 - **esquiva_obstaculos** → el robot esquiva obstáculos usando ultrasonido y servo
+- **sigue_lineas** → el robot sigue una línea negra con 3 sensores IR
 
 ## Herramientas
 - Arduino IDE
